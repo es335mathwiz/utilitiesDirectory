@@ -1,0 +1,11 @@
+Resources[
+    Version[1],
+    Java[
+        Directory["javaOutput"],
+        Directory["MyMathUtilities/Java"]
+    ],
+    ExecutionBuildCommand["<<MyMathUtilities`"],
+    Paclet[
+        FunctionPaclet[False]
+    ]
+]
